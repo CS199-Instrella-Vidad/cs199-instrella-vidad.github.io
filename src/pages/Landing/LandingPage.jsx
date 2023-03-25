@@ -16,7 +16,7 @@ function LandingPage() {
       <div className="LinkContainer">
         <div className="divide-lside">
           SN P Simulation
-          <Link to="http://snapse.website/WebSnapse2.0-NSNP-Extension">
+          <Link to="https://snp.snapse.website">
             <img src={snppic} alt="" />
             <br />
             <div class="SNP">
@@ -30,7 +30,7 @@ function LandingPage() {
         </div>
         <div className="divide-rside">
           NSN P Simulation
-          <Link to="http://snapse.website/NSNP-Extension">
+          <Link to="https://nsnp.snapse.website">
             <img src={nsnppic} alt="" />
             <br />
             <div className="NSNP">
